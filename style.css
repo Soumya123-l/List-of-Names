@@ -1,0 +1,28 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+
+}
+
+input
+{
+	margin: 10px;
+}
+body{
+    background-color: rgb(255, 0, 21);
+    text-decoration-color: rgb(0, 255, 179);
+}
+
+#image{
+   margin-top: 50;
+   margin-bottom: 60;
+    height: 130;
+    width:160;
+}
